@@ -1,0 +1,61 @@
+.title-second-text {
+  color: #fff;
+  display: flex;
+  justify-content: left;
+  }
+h1 {
+  font-family: "Oswald";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2 {
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+h3 {
+  font-family: "oswald";
+  font-weight: bold;
+  text-align: center;
+}
+body {
+  font-family: "roboto";
+}
+.container-fluid {
+  background-color: #000;
+}
+.btn {
+  margin-left: 70px;
+}
+.btn-pancil {
+  font-size: 12px;
+  color: rgb(114, 106, 106);
+}
+.container {
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-basis: 100px;
+  gap: 20px;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.btn-features {
+ margin-left: 45px;
+}
+.card-group > div {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  border-color: white;
+}
+.img_as {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+.card.mb-3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
